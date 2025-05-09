@@ -1,0 +1,14 @@
+C:\Users\muhammad.hammadullah\source\repos\inheritance-assignment\inheritance-assignment\bin\Debug\net8.0\inheritance-assignment.exe
+C:\Users\muhammad.hammadullah\source\repos\inheritance-assignment\inheritance-assignment\bin\Debug\net8.0\inheritance-assignment.deps.json
+C:\Users\muhammad.hammadullah\source\repos\inheritance-assignment\inheritance-assignment\bin\Debug\net8.0\inheritance-assignment.runtimeconfig.json
+C:\Users\muhammad.hammadullah\source\repos\inheritance-assignment\inheritance-assignment\bin\Debug\net8.0\inheritance-assignment.dll
+C:\Users\muhammad.hammadullah\source\repos\inheritance-assignment\inheritance-assignment\bin\Debug\net8.0\inheritance-assignment.pdb
+C:\Users\muhammad.hammadullah\source\repos\inheritance-assignment\inheritance-assignment\obj\Debug\net8.0\inheritance-assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muhammad.hammadullah\source\repos\inheritance-assignment\inheritance-assignment\obj\Debug\net8.0\inheritance-assignment.AssemblyInfoInputs.cache
+C:\Users\muhammad.hammadullah\source\repos\inheritance-assignment\inheritance-assignment\obj\Debug\net8.0\inheritance-assignment.AssemblyInfo.cs
+C:\Users\muhammad.hammadullah\source\repos\inheritance-assignment\inheritance-assignment\obj\Debug\net8.0\inheritance-assignment.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.hammadullah\source\repos\inheritance-assignment\inheritance-assignment\obj\Debug\net8.0\inheritance-assignment.dll
+C:\Users\muhammad.hammadullah\source\repos\inheritance-assignment\inheritance-assignment\obj\Debug\net8.0\refint\inheritance-assignment.dll
+C:\Users\muhammad.hammadullah\source\repos\inheritance-assignment\inheritance-assignment\obj\Debug\net8.0\inheritance-assignment.pdb
+C:\Users\muhammad.hammadullah\source\repos\inheritance-assignment\inheritance-assignment\obj\Debug\net8.0\inheritance-assignment.genruntimeconfig.cache
+C:\Users\muhammad.hammadullah\source\repos\inheritance-assignment\inheritance-assignment\obj\Debug\net8.0\ref\inheritance-assignment.dll
